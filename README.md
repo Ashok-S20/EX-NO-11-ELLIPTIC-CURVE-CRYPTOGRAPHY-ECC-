@@ -126,7 +126,7 @@ int main()
 
 
 ## Output:
-![Uploading 597514620-c7d48a1c-6e34-4970-845d-bbbd4456030f.png…]()
+<img width="1920" height="1018" alt="597514620-c7d48a1c-6e34-4970-845d-bbbd4456030f" src="https://github.com/user-attachments/assets/9bf83316-8ae4-4207-8727-a070ef47e2fb" />
 
 
 ## Result:
